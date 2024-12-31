@@ -69,4 +69,5 @@ This dashboard is a robust tool for stakeholders to assess sales trends, underst
 ## Conclusion:
 The Christmas Sales & Trends dashboard is a comprehensive tool for analyzing festive season sales performance. It provides valuable insights into product demand, customer preferences, regional sales patterns, and the impact of weather conditions on purchasing behavior. By visualizing key metrics such as sales amount, profit, and quantity sold across categories, the dashboard empowers businesses to make data-driven decisions. It also highlights the effectiveness of discounts and customer satisfaction levels, enabling optimized pricing strategies and targeted marketing campaigns. Overall, this dashboard is instrumental in maximizing sales opportunities during the holiday season and enhancing customer engagement.
 
-#### Here is the video link of the dashboard: [Insert the video link here].
+#### Here is the drive link of the video of dashboard:
+https://drive.google.com/file/d/1Ln3-IFbc7UY7D3h4Nn7GqM1f0AWC8_4c/view?usp=sharing.
