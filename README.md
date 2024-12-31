@@ -30,15 +30,14 @@ Graphs display total quantity sold alongside customer satisfaction metrics for s
 ## KPIs and Charts Explanation
 
 * KPIs (Key Performance Indicators):
-
 - Total Sales by Weather: Displays total sales influenced by weather conditions like Rainy, Snowy, and Sunny.
 - Total Quantity Sold: Highlights the total number of products sold during the period.
 - Total Sales Amount: Shows the overall revenue generated across all product categories.
 - Total Sales by Payment Type: Represents the revenue categorized by different payment methods.
 - Customers by Location: Indicates the number of customers segmented by geographic regions.
 
-* Charts:
 
+* Charts:
 1) Sum of Quantity by Category (Pie Chart):
 Displays the proportion of products sold in categories like Clothing, Decorations, Food, Toys, and Electronics.
 
