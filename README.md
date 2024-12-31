@@ -37,6 +37,7 @@ Graphs display total quantity sold alongside customer satisfaction metrics for s
 - Customers by Location: Indicates the number of customers segmented by geographic regions.
 
 
+
 * Charts:
 1) Sum of Quantity by Category (Pie Chart):
 Displays the proportion of products sold in categories like Clothing, Decorations, Food, Toys, and Electronics.
