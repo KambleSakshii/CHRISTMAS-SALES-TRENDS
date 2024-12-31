@@ -1,4 +1,4 @@
-# 🎄CHRISTMAS-SALES-TRENDS 🎄
+# 🎄CHRISTMAS SALES & TRENDS 🎄
 
 #  ⛄ Overview:
 
