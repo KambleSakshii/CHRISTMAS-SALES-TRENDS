@@ -1,5 +1,6 @@
 # 🎄CHRISTMAS-SALES-TRENDS 🎄
-Overview:
+
+# Overview:
 This interactive Power BI dashboard analyzes sales performance during the Christmas season, highlighting key trends across product categories, customer preferences, and weather conditions. It provides actionable insights for improving sales strategies and enhancing customer satisfaction.
 
 * Key Highlights:
